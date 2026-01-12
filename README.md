@@ -37,7 +37,34 @@ The Room Usage Statistics Dashboard is a Streamlit-based web application that en
 
 ## Usage
 
-To run the dashboard:
+### To run the dashboard:
+
+```bash
+
+# Activate the virtual environment
+source .venv/bin/activate  # On macOS/Linux
+# or
+.venv\Scripts\activate  # On Windows
+```
+
+### Using requirements.txt
+
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate  # On macOS/Linux
+# or
+venv\Scripts\activate  # On Windows
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Running the Dashboard
+
+Once the virtual environment is activated and dependencies are installed, run:
 
 ```bash
 streamlit run main.py
