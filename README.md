@@ -62,15 +62,13 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
-### Running the Dashboard
-
-Once the virtual environment is activated and dependencies are installed, run:
+### Once the virtual environment is activated and dependencies are installed, run:
 
 ```bash
 streamlit run main.py
 ```
 
-Upload a CSV file containing room occupancy data to begin analysis.
+### Upload a CSV file containing room occupancy data to begin analysis (i.e the provided example file "raumbelegung_universitaet_hs23_fs24.csv"
 
 ## Data Format
 
