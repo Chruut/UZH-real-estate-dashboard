@@ -20,6 +20,23 @@ The Room Usage Statistics Dashboard is a Streamlit-based web application that en
 - Track occupancy trends over time for individual rooms
 - View detailed statistics including average occupancy, peak occupancy, and usage hours per day
 
+## Previews
+
+<img width="1317" height="754" alt="Screenshot 2026-01-12 at 11 22 02" src="https://github.com/user-attachments/assets/92d19d4e-25e7-4bff-805a-314d11fd8d27" />
+<br> 
+ 
+<img width="1298" height="561" alt="Screenshot 2026-01-12 at 11 23 07" src="https://github.com/user-attachments/assets/fd7cd15e-7bce-4fcd-bca2-8f7178c5563a" />
+<br> 
+ 
+
+<img width="1306" height="477" alt="Screenshot 2026-01-12 at 11 23 27" src="https://github.com/user-attachments/assets/8dfe0a08-2dc3-4e35-b112-58d56ad416f4" />
+<br> 
+ 
+<img width="1305" height="518" alt="image" src="https://github.com/user-attachments/assets/d7f2e91b-cfe2-41ab-aa63-50508d969a5a" />
+
+
+
+
 - **Synthetic Dataset** containing comprehensive real estate information:
   - **Sensory Data**: CO₂ concentration, infrared occupancy counting, temperature, light levels, heating status, air conditioning status, and ventilation status
   - **Geolocation Information**: Building locations and GPS coordinates (latitude/longitude) for spatial analysis
